@@ -242,6 +242,7 @@
                             </div>
                         </div>
                         <!-- Premium -->
+                         
                         <div class="room-card">
                             <div class="room-card-image" style="background: linear-gradient(180deg, #B8934A, #96783D);">
                                 <span><img src="img/premium.png" class="img-fluid" style="height: 220px; object-fit: cover;"></span>
